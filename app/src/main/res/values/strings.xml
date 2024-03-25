@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerTrening</string>
+    <string name="camera">camera</string>
+    <string name="search">search</string>
+    <string name="mail">mail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mailicon">mailIcon</string>
+    <string name="mama">Мама</string>
+    <string name="hleb">Ты опять забыл купить хлеб....</string>
+</resources>
